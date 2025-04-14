@@ -10,5 +10,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 3.1.0'
-  s.metadata['source_code_uri'] = 'https://github.com/dhanajit96/marathi_typing.git'
+  spec.metadata['source_code_uri'] = 'https://github.com/dhanajit96/marathi_typing.git'
 end

@@ -30,3 +30,5 @@ then use command
 ```
 bin/rails generate marathi_typing:install
 ```
+
+Above command will generate a `marathi_typing_controller.js` file 

@@ -32,3 +32,13 @@ bin/rails generate marathi_typing:install
 ```
 
 Above command will generate a `marathi_typing_controller.js` file 
+
+Add class and data-controller and data to the input where you want to implement marathi typing 
+
+```html
+<input type="text"
+       class="marathi-typing"
+       data-controller="marathi-typing"
+       data-marathi-typing-target="input"
+       placeholder="Type in English..." />
+```

@@ -13,7 +13,7 @@ bin/rails stimulus:install
 ## Install:
 Add the following line to your application's Gemfile:
 ```
-gem 'marathi_typing'
+gem 'marathi_typing', '~> 0.2.1'
 ```
 And then execute:
 
